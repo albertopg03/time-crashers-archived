@@ -17,9 +17,10 @@ Mi rol en el equipo fue el de **Lead Programmer**, y además me encargué de la 
 ---
 
 <p align="center">
-  <img src="/screenshots/photo1.PNG" alt="Captura interfaz general" height="280px"/>
-  <img src="/screenshots/photo3.PNG" alt="Captura previsualización mapa" height="280px" style="margin-left:10px"/>
+  <img src="/screenshots/photo1.PNG" alt="Captura interfaz general" width="49%" style="height: 280px; object-fit: cover;"/>
+  <img src="/screenshots/photo3.PNG" alt="Captura previsualización mapa" width="49%" style="height: 280px; object-fit: cover; margin-left:1%;"/>
 </p>
+
 
 ---
 
