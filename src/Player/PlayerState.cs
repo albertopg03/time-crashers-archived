@@ -87,8 +87,6 @@ public class PlayerState : MonoBehaviour
     {
         if (caller != _player) return;
 
-        Debug.Log("AAAAAAAAAAAAAAACTIVO ELECCION DE RUTA!!!!!!!!!!!!!");
-
         stateMachine?.SetState(pathChoiceState);
         OnPathChoice?.Invoke();
     }
